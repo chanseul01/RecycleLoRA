@@ -1,0 +1,9 @@
+work_dirs/
+__pycache__/
+**.pyc
+**.pth
+*.log
+*.pkl
+data/
+.ipynb_checkpoints/
+!checkpoints/README.md
